@@ -72,6 +72,10 @@ An overview of the user’s financial life:
 - **Goals Preview**: Top two active savings goals with progress bars
 - **Net Income Tracker**: Quarterly breakdown with area charts showing income, expenses, and net
 
+## 🎥 Demo of Dashboard Page
+
+![Fundit Demo](assets/fundit-dashboard.gif)
+
 ---
 
 ### 2. **Income Page**
@@ -80,7 +84,11 @@ An overview of the user’s financial life:
 - **Update Entries**: Edit/delete monthly entries
 - **Visual Sections**:
   - Monthly Pie Chart (by category)
-  - Line Graph Overview (up to 13 months)
+  - Line Graph Overview (up to 13 months)#
+
+## 🎥 Demo of Income Page
+
+![Fundit Demo](assets/fundit-income.gif)
 
 ---
 
@@ -94,6 +102,10 @@ An overview of the user’s financial life:
   - Top 5 Recurring Expenses
   - Budget Tracker: Progress bars comparing expenses vs. budget
 
+## 🎥 Demo of Expense Page
+
+![Fundit Demo](assets/fundit-expense.gif)
+
 ---
 
 ### 4. **Savings & Repayments Page**
@@ -105,6 +117,10 @@ An overview of the user’s financial life:
   - General Savings: View +/− history, duration, and updates
   - Savings Goals: Track target, progress, deadline
   - Repayment Goals: Track repayment progress, outstanding amount
+ 
+## 🎥 Demo of Savings & Repayments Page
+
+![Fundit Demo](assets/fundit-goals.gif)
 
 ---
 
@@ -113,6 +129,10 @@ An overview of the user’s financial life:
 - Same layout for guests and users
 - Form includes: name, email (auto-filled), issue category, message
 - Sends email to Fundit support inbox
+
+## 🎥 Demo of Support Page
+
+![Fundit Demo](assets/fundit-support.gif)
 
 ---
 
@@ -123,6 +143,10 @@ An overview of the user’s financial life:
 - **Delete Account**:
   - Requires reason, feedback, star rating, confirmation checkbox
   - Sends a detailed summary to Fundit email
+
+## 🎥 Demo of Settings Page
+
+![Fundit Demo](assets/fundit-settings.gif)
 
 ---
 
