@@ -126,3 +126,71 @@ An overview of the user’s financial life:
 ```bash
 git clone https://github.com/MarzanaN/fundit-frontend.git
 git clone https://github.com/MarzanaN/fundit-backend.git
+```
+
+---
+
+### 2. Backend Setup (Django)
+
+```bash
+cd fundit-backend
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+Create a `.env` file in the root of the backend and add:
+
+```env
+SECRET_KEY=your_django_secret
+DEBUG=True
+DATABASE_URL=your_postgresql_db_url
+EMAIL_HOST_USER=your_email@gmail.com
+EMAIL_HOST_PASSWORD=your_email_password
+```
+
+Run the server:
+
+```bash
+python manage.py migrate
+python manage.py runserver
+```
+
+---
+
+### 3. Frontend Setup (React)
+
+```bash
+cd fundit-frontend
+npm install
+npm start
+```
+
+Make sure the frontend is configured to communicate with the backend API (e.g., `http://localhost:8000`) in your `.env` or config file.
+
+---
+
+## 🌍 Deployment
+
+- **Backend**: [Render](https://render.com/)
+- **Frontend**: [Vercel](https://vercel.com/) — deployed to [https://www.fundit-app.com](https://www.fundit-app.com)
+- **Static Files**: Served using WhiteNoise
+- **Database**: PostgreSQL in production
+
+---
+
+## 📩 Contact
+
+Built and maintained by **Marzana N**.
+
+Have questions or feedback?  
+Submit an issue or reach out via the support form on the website:  
+🔗 [https://www.fundit-app.com/support](https://www.fundit-app.com/support)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+
