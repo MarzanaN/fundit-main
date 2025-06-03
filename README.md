@@ -17,15 +17,16 @@ Live App: 🌐 [https://www.fundit-app.com](https://www.fundit-app.com)
 
 ## ⚙️ Tech Stack
 
-| Component        | Technology / Service                               |
-|------------------|-----------------------------------------------------|
-| Frontend         | React (Deployed on Vercel with custom domain)       |
-| Backend          | Django + Django REST Framework (Deployed on Render) |
-| Authentication   | JWT via `rest_framework_simplejwt`                 |
-| Database         | PostgreSQL (via `dj_database_url`)                 |
-| Static Files     | WhiteNoise                                          |
-| Email            | Gmail SMTP                                          |
-| Deployment       | Render (Backend), Vercel (Frontend)                 |
+| Component        | Technology / Service                                                            |
+|------------------|----------------------------------------------------------------------------------|
+| Frontend         | React with Tailwind CSS, AOS animations, React Icons, Chart.js                   |
+| Backend          | Django + Django REST Framework (Deployed on Render)                             |
+| Authentication   | JWT via `rest_framework_simplejwt`                                              |
+| Database         | PostgreSQL (via `dj_database_url`)                                              |
+| Static Files     | WhiteNoise                                                                      |
+| Email            | Gmail SMTP                                                                      |
+| Deployment       | Render (Backend), Vercel (Frontend) with custom domain                          |
+
 
 ---
 
