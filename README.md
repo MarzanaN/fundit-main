@@ -44,6 +44,10 @@ Live App: 🌐 [https://www.fundit-app.com](https://www.fundit-app.com)
   - Forgot/reset password flow
 - **Guest Mode**: One-click "Explore as Guest" simulates a fully functioning user with dummy data and unique session handling
 
+## 🎥 Demo of Public Pages
+
+![Fundit Demo](assets/fundit-public-pages.gif)
+
 ---
 
 ### 🔐 Authenticated Routes (Light theme)
