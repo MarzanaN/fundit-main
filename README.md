@@ -26,6 +26,8 @@ Live App: 🌐 [https://www.fundit-app.com](https://www.fundit-app.com)
 | Static Files     | WhiteNoise                                                                      |
 | Email            | Gmail SMTP                                                                      |
 | Deployment       | Render (Backend), Vercel (Frontend) with custom domain                          |
+| API Testing      | Postman                                                                          |
+
 
 
 ---
